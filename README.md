@@ -11,7 +11,7 @@
 - /swagger/index.html, для тестов точек
 
 ### Unit тесты
-https://github.com/Mike2142/ShapeCalcApiSln
+папка /ShapeCalcApi.Tests
 
 #### Стэк
 - .NET Core
