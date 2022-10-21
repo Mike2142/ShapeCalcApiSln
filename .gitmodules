@@ -1,0 +1,3 @@
+[submodule "ShapeCalcApi"]
+	path = ShapeCalcApi
+	url = git@github.com:Mike2142/ShapeCalcApi.git
